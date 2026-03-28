@@ -164,7 +164,7 @@ En este proyecto implementé un sistema CRUD utilizando Node.js y SQLite3, lo cu
 
 ---
 
-##  Referencias (APA 7)
+##  Referencias 
 
 * Node.js. (2023). *Node.js Documentation*. [https://nodejs.org](https://nodejs.org)
 * Express.js. (2023). *Express Documentation*. [https://expressjs.com](https://expressjs.com)
@@ -177,6 +177,3 @@ En este proyecto implementé un sistema CRUD utilizando Node.js y SQLite3, lo cu
 
 Raymundo Salas Rodríguez
 
-
-
-Solo dime 👍
